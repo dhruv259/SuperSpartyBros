@@ -1,5 +1,7 @@
 # SuperSpartyBros
 
+This is a 2D platformer game like Mario.
+
 You can download the windows zip folder and play on your windows device by extracting all the files and running the application.
 You can play using WebGL if your browser supports it.
 Mozilla Firefox might support WebGL but in case it doesn't work you can follow these steps:-
