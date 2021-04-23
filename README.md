@@ -7,6 +7,6 @@ You can download the windows zip folder and play on your windows device by extra
 You can play using WebGL if your browser supports it.
 Mozilla Firefox might support WebGL but in case it doesn't work you can follow these steps:-
 
-1. Open command promt
+1. Open command prompt
 2. Type "start chrome --allow--file--access--from--files" 
    This will enable chrome to use third party applications but make sure no chrome windows are open before otherwise it won't work.
